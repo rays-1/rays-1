@@ -24,4 +24,9 @@ A student from the Philippines who kinda (?) likes programming
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
