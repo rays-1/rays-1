@@ -26,7 +26,7 @@ A student from the Philippines who kinda (?) likes programming
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C#   21 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
