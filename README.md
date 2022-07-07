@@ -26,8 +26,8 @@ A student from the Philippines who kinda (?) likes programming
 <!--START_SECTION:waka-->
 
 ```text
-C#      2 hrs 21 mins   ███████████████████▓░░░░░   79.30 %
-Other   37 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
+C#      1 hr 51 mins    ██████████████████▓░░░░░░   75.09 %
+Other   37 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.91 %
 ```
 
 <!--END_SECTION:waka-->
