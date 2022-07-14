@@ -26,11 +26,11 @@ A student from the Philippines who kinda (?) likes programming
 <!--START_SECTION:waka-->
 
 ```text
-CSS          1 hr 45 mins    ██████████░░░░░░░░░░░░░░░   40.43 %
-HTML         1 hr 10 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.02 %
-JavaScript   59 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
-C#           24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+CSS          2 hrs 34 mins   ████████████▒░░░░░░░░░░░░   49.04 %
+HTML         1 hr 15 mins    ██████░░░░░░░░░░░░░░░░░░░   23.80 %
+JavaScript   1 hr            ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
+C#           24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
