@@ -1,5 +1,5 @@
 # 💫 About Me:
-A student from the Philippines who kinda (?) likes programming
+A student from the Philippines who likes programming
 
 
 # 💻 Tech Stack:
