@@ -26,12 +26,12 @@ A student from the Philippines who likes programming
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 5 mins    █████████████████░░░░░░░░   67.55 %
-EJS          1 hr 11 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
-Bash         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+JavaScript   3 hrs 15 mins   ████████████████████▒░░░░   81.27 %
+EJS          25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+Bash         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Python       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
